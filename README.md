@@ -1,3 +1,3 @@
 # Pinteresting 
 
-A practice application for rails
+A rebuilding of pinterest with RoR
